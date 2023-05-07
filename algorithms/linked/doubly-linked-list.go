@@ -1,4 +1,4 @@
-package algorithms
+package linked
 
 import "fmt"
 

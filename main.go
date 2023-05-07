@@ -2,12 +2,12 @@ package main
 
 import (
 	"fmt"
-	//"golang-algorithms/algorithms"
+	//"golang-algorithms/algorithms/linked"
 )
 
 func main() {
 	fmt.Println("Hello golang algorithms")
 
-	//algorithms.SinglyLinkedList()
-	//algorithms.DoublyLinkedList()
+	//linked.SinglyLinkedList()
+	//linked.DoublyLinkedList()
 }
