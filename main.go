@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	//"golang-algorithms/algorithms/stack"
 	//"golang-algorithms/algorithms/linked"
 )
 
@@ -10,4 +11,6 @@ func main() {
 
 	//linked.SinglyLinkedList()
 	//linked.DoublyLinkedList()
+
+	//stack.StackMain()
 }
