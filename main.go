@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	//"golang-algorithms/algorithms/queue"
 	//"golang-algorithms/algorithms/stack"
 	//"golang-algorithms/algorithms/linked"
 )
@@ -13,4 +14,6 @@ func main() {
 	//linked.DoublyLinkedList()
 
 	//stack.StackMain()
+
+	//queue.QueueMain()
 }
