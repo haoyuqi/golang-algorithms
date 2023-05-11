@@ -4,6 +4,8 @@ import (
 	"fmt"
 	//"golang-algorithms/algorithms"
 	//"golang-algorithms/algorithms/sort"
+	//"golang-algorithms/algorithms"
+	//"golang-algorithms/algorithms/sort"
 	//"golang-algorithms/algorithms/queue"
 	//"golang-algorithms/algorithms/stack"
 	//"golang-algorithms/algorithms/linked"
@@ -22,5 +24,7 @@ func main() {
 	//nums := algorithms.GenerateRandomSlice(10)
 	//fmt.Println(nums)
 	//nums = sort.BubbleSort(nums)
+	//fmt.Println(nums)
+	//nums = sort.InsertionSort(nums)
 	//fmt.Println(nums)
 }
