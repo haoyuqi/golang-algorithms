@@ -19,7 +19,7 @@ func main() {
 
 	//queue.QueueMain()
 
-	//nums := algorithms.GenerateRandomSlice(100)
+	//nums := algorithms.GenerateRandomSlice(10000)
 	//fmt.Println(nums)
 	//nums = sort.BubbleSort(nums)
 	//fmt.Println(nums)
@@ -27,5 +27,8 @@ func main() {
 	//fmt.Println(nums)
 
 	//sort.SelectionSort(nums)
+	//fmt.Println(nums)
+
+	//nums = sort.MergeSort(nums)
 	//fmt.Println(nums)
 }
