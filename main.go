@@ -31,4 +31,7 @@ func main() {
 
 	//nums = sort.MergeSort(nums)
 	//fmt.Println(nums)
+
+	//sort.QuickSort(nums, 0, len(nums)-1)
+	//fmt.Println(nums)
 }
